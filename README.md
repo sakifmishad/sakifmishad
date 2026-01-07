@@ -1,5 +1,7 @@
 ###  About
 Building mobile systems, exploring problems worth solving
+<a href="https://app.daily.dev/mishad"> <img align="right" src="https://api.daily.dev/devcards/v2/BiRNXKnZuiWakM9C3B8TJ.png?type=default&r=kx3" width="180" alt="Sakif Rahaman Mishad's Dev Card"/></a>
+
 
 ### Stack
 - **Core:** `C++` • `Dart` • `Kotlin` • `Java`
